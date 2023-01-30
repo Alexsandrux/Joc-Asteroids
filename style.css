@@ -1,0 +1,79 @@
+#canvas1 {
+    border: 1px;
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    background-color: white;
+}
+
+p {
+    font-size: 30px;
+}
+
+#butonStop
+{
+    width: 10%;
+    height: 100px;
+    font-size: 45px;
+    position:fixed;
+    top: 0%;
+    left: 0;
+
+}
+
+#butonStart
+{
+    width: 10%;
+    height: 100px;
+    font-size: 45px;
+    position:fixed;
+    top: 0%;
+    left: 0;
+
+}
+
+#score {
+    font-size: 45px;
+    position: fixed;
+    top: 0%;
+    right: 0;
+}
+
+#lifepoints {
+    font-size: 45px;
+    position: fixed;
+    top: 10%;
+    right: 0;
+}
+
+#bonusLife {
+    font-size: 45px;
+    position: fixed;
+    top: 20%;
+    right: 0;
+}
+
+.center {
+    display: table;
+    margin: 0 auto;
+    border: 1px solid black;
+  }
+
+#formSubmit {
+    position:absolute;
+    top: 50%;
+    display:block;
+    font-size: 30px;
+}
+
+#name {
+    font-size: 30px;
+} 
+
+#btnSubmitForm {
+    font-size: 30px;
+    position:absolute;
+    top: 70%;
+    display:block;
+    font-size: 30px;
+}

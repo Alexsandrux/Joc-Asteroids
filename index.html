@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joc Asteroids</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+
+<body>
+    <div>
+        <canvas id="canvas1" class="center" width="1000" height="1000"></canvas>
+        <p id="score">Score: </p>
+        <p id="lifepoints">Lifepoints: </p>
+        <p id="bonusLife">Score for bonus life: </p>
+    </div>
+    <button onclick="pauseGame()" id="butonStop">Pause</button>
+    <button onclick="startGame()" id="butonStart">Start</button>
+
+    <div id="formSubmitScore">
+        <form name="highscoreForm" id="formSubmit">
+            <p>Submit your score!</p>
+            <label for="name">Your name:</label><br>
+            <input type="text" id="name" name="name"><br>
+        </form>
+        <button id="btnSubmitForm" onclick="saveYourScore()">Submit!</button>
+    </div>
+</body>
+
+</html>
