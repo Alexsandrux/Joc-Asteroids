@@ -8,3 +8,5 @@ Controls:
 -Use "x" to fire rockets;
 -Hold "x" to fire a rocket of a maximum of 3 damage.
 
+Asteroid mid-game
+![Asteroid mid-game](https://github.com/Alexsandrux/Joc-Asteroids/blob/main/asteroids_game1.png)
