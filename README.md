@@ -16,6 +16,6 @@ Game over screen
 
 ![GAME OVER](https://github.com/Alexsandrux/Joc-Asteroids/blob/main/asteroids_game2.png)
 
-Table score screen
+Highscores screen
 
 ![Table_score](https://github.com/Alexsandrux/Joc-Asteroids/blob/main/asteroids_game3.png)
